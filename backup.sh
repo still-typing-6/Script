@@ -2,6 +2,7 @@
 
 <<info
 this shell script will take periodic backups 
+can  also be used with cron
 info
 
 src=$1
